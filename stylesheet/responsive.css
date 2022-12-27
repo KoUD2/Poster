@@ -1,0 +1,579 @@
+@media all and (min-width: 1367px) and (max-width: 1440px) {
+  p{
+    font-size: 56.25px;
+  }
+  .numbers {
+    margin-left: 10%;
+  }
+  .cards_panel{
+    border-top: 26px solid #1D1A1C;
+    border-left: 26px solid #1D1A1C;
+    border-bottom: 26px solid #1D1A1C;
+  }
+  .panel{
+    height: 375px;
+  }
+  .main{
+    height: 2573.44px;
+  }
+  .coral{
+    height: 335px
+  }
+  .first{
+    height: 887.69px;
+  }
+  .buttons{
+    height: 215.44px;
+  }
+  .but_round1{
+    border: 9px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 8.25px solid #1D1A1C;
+    border-radius: 20px;
+  }
+  .but_rec{
+    border-radius: 24px;
+  }
+  .table img{
+    width: 807.85px;
+  }
+  .currencies{
+    height: 354.87px;
+    background-size: 100%;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round1_big{
+    border: 25px solid #1D1A1C;
+  }
+  .fourth{
+    margin-top: 10%;
+  }
+  .fourth1{
+    height: 412.03px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 112.5px;
+  }
+  .fifth1 {
+    height: 112.5px;
+  }
+  .fifth p {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .prize{
+    margin-top: -60px;
+  }
+  #text1{
+    margin-left: 39.5%;
+  }
+  #yuan{
+    font-size: 32.18px;
+  }
+  #euro{
+    margin-top: 21px;
+    font-size: 32.18px;
+  }
+  #dollar{
+    font-size: 32.18px;
+  }
+  #ruble{
+    font-size: 32.18px;
+    margin-bottom: 42px;
+  }
+  #prize{
+    font-size: 53.2px;
+  }
+  #money{
+    font-size: 70px;
+  }
+  #end{
+    font-size: 42.19px;
+  }
+  @keyframes speed {
+    0% {margin-top: -338px}
+    50% {margin-top: 342px}
+    100% {margin-top: -338px}
+  }
+}
+@media all and (min-width: 1281px) and (max-device-width: 1366px) {
+  p{
+    font-size: 56.25px;
+  }
+  .numbers {
+    margin-left: 10%;
+  }
+  .cards_panel{
+    border-top: 26px solid #1D1A1C;
+    border-left: 26px solid #1D1A1C;
+    border-bottom: 26px solid #1D1A1C;
+  }
+  .panel{
+    height: 375px;
+  }
+  .main{
+    height: 2573.44px;
+  }
+  .coral{
+    height: 335px
+  }
+  .first{
+    height: 887.69px;
+  }
+  .buttons{
+    height: 215.44px;
+  }
+  .but_round1{
+    border: 9px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 8.25px solid #1D1A1C;
+    border-radius: 20px;
+  }
+  .but_rec{
+    border-radius: 24px;
+  }
+  .table img{
+    width: 807.85px;
+  }
+  .currencies{
+    height: 354.87px;
+    background-size: 100%;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round1_big{
+    border: 25px solid #1D1A1C;
+  }
+  .fourth{
+    margin-top: 10%;
+  }
+  .fourth1{
+    height: 412.03px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 112.5px;
+  }
+  .fifth1 {
+    height: 112.5px;
+  }
+  .fifth p {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .rectangle{
+    height: 118px;
+  }
+  .prize{
+    margin-top: -60px;
+  }
+  #text1{
+    margin-left: 41.7%;
+  }
+  #yuan{
+    font-size: 32.18px;
+  }
+  #euro{
+    margin-top: 17px;
+    font-size: 32.18px;
+  }
+  #dollar{
+    margin-top: 8px;
+    font-size: 32.18px;
+  }
+  #ruble{
+    font-size: 32.18px;
+    margin-bottom: 57px;
+  }
+  #prize{
+    font-size: 50.5px;
+  }
+  #money{
+    font-size: 70px;
+  }
+  #end{
+    font-size: 42.19px;
+  }
+  @keyframes speed {
+    0% {margin-top: -338px}
+    50% {margin-top: 342px}
+    100% {margin-top: -338px}
+  }
+}
+@media all and (min-width: 1025px) and (max-device-width: 1280px) {
+  p{
+    font-size: 50px;
+  }
+  .cards_panel{
+    border-top: 23px solid #1D1A1C;
+    border-left: 23px solid #1D1A1C;
+    border-bottom: 23px solid #1D1A1C;
+  }
+  .numbers {
+    margin-left: 10%;
+  }
+  .panel{
+    height: 333.33px;
+  }
+  .main{
+    height: 2287.5px;
+  }
+  .coral{
+    height: 297px;
+  }
+  .first{
+    height: 781.59px;
+  }
+  .buttons{
+    height: 191.5px;
+  }
+  .but_round1{
+    border: 8.67px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 7.33px solid #1D1A1C;
+    border-radius: 18px;
+  }
+  .but_rec{
+    border-radius: 22px;
+  }
+  .table img{
+    width: 718.09px;
+  }
+  .currencies{
+    height: 316px;
+    margin-top: 108px;
+    background-size: 100%;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round1_big{
+    border: 22.5px solid #1D1A1C;
+  }
+  .fourth{
+    margin-top: 12%;
+  }
+  .fourth1{
+    height: 366.25px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 100px;
+  }
+  .fifth1 {
+    height: 100px;
+  }
+  .fifth p {
+    font-size: 21.33px;
+    line-height: 27px;
+  }
+  .rectangle{
+    height: 100px;
+  }
+  .rectangle1{
+    height: 80%;
+  }
+  .prize{
+    margin-top: -60px;
+  }
+  .card_main {
+    width: 16%;
+  }
+  #text1{
+    margin-left: 39.4%;
+  }
+  #yuan{
+    font-size: 28.6px;
+  }
+  #euro{
+    margin-top: 19px;
+    font-size: 28.6px;
+  }
+  #dollar{
+    font-size: 28.6px;
+  }
+  #ruble{
+    font-size: 28.6px;
+    margin-bottom: 52px;
+  }
+  #prize{
+    font-size: 47.3px;
+  }
+  #money{
+    font-size: 60px;
+  }
+  #end{
+    font-size: 37.5px;
+  }
+  @keyframes speed {
+    0% {margin-top: -300px}
+    50% {margin-top: 304px}
+    100% {margin-top: -300px}
+  }
+}
+
+@media all and (min-width: 835px) and (max-device-width: 1024px) {
+  p{
+    font-size: 40px;
+  }
+  .cards_panel{
+    border-top: 19px solid #1D1A1C;
+    border-left: 19px solid #1D1A1C;
+    border-bottom: 19px solid #1D1A1C;
+  }
+  .numbers {
+    margin-left: 10%;
+  }
+  .panel{
+    height: 266.67px;
+  }
+  .main{
+    height: 1830px;
+  }
+  .coral{
+    height: 240px;
+  }
+  .first{
+    height: 625.28px;
+  }
+  .buttons{
+    height: 153.2px;
+  }
+  .but_round1{
+    border: 6.93px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 5.87px solid #1D1A1C;
+    border-radius: 14px;
+  }
+  .but_rec{
+    border-radius: 16px;
+  }
+  .table img{
+    width: 574.47px;
+  }
+  .currencies{
+    height: 252.8px;
+    margin-top: 102px;
+    background-size: 100%;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round1_big{
+    border: 18px solid #1D1A1C;
+  }
+  .fourth{
+    margin-top: 18%;
+  }
+  .fourth1{
+    height: 150px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 80px;
+  }
+  .fifth1 {
+    height: 80px;
+  }
+  .fifth p {
+    font-size: 17.07px;
+    line-height: 21px;
+  }
+  .rectangle{
+    height: 74px;
+  }
+  .rectangle1{
+    height: 80%;
+  }
+  .prize{
+    margin-top: -40px;
+  }
+  .card_main {
+    width: 16%;
+  }
+  .pedal2{
+    height: 155.95px;
+  }
+  .pedal1{
+    height: 293px;
+  }
+  #text1{
+    margin-left: 39.4%;
+  }
+  #yuan{
+    font-size: 22.88px;
+  }
+  #euro{
+    margin-top: 14px;
+    font-size: 22.88px;
+  }
+  #dollar{
+    margin-top: 15px;
+    font-size: 22.88px
+  }
+  #ruble{
+    font-size: 22.88px;
+    margin-bottom: 72px;
+  }
+  #prize{
+    font-size: 37.96px;
+  }
+  #money{
+    font-size: 40px;
+  }
+  #end{
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  @keyframes speed {
+    0% {margin-top: -238px}
+    50% {margin-top: 238px}
+    100% {margin-top: -238px}
+  }
+}
+
+@media all and (max-device-width: 834px) {
+  p{
+    font-size: 32.57px;
+  }
+  .cards_panel{
+    border-top: 15px solid #1D1A1C;
+    border-left: 15px solid #1D1A1C;
+    border-bottom: 15px solid #1D1A1C;
+  }
+  .numbers {
+    margin-left: 10%;
+  }
+  .panel{
+    height: 217px;
+  }
+  .main{
+    height: 1490.02px;
+  }
+  .coral{
+    height: 217px;
+  }
+  .first{
+    height: 509.29px;
+  }
+  .buttons{
+    height: 124.74px;
+  }
+  .but_round1{
+    border: 5.65px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 4.78px solid #1D1A1C;
+    border-radius: 12px;
+  }
+  .but_rec{
+    border-radius: 14px;
+  }
+  .table img{
+    width: 467.75px;
+  }
+  .currencies{
+    height: 205.83px;
+    margin-top: 94px;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round1_big{
+    border: 14.66px solid #1D1A1C;
+  }
+  .fourth{
+    margin-top: 18%;
+  }
+  .fourth1{
+    height: 124px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 65.16px;
+  }
+  .fifth1 {
+    height: 65.16px;
+  }
+  .fifth p {
+    font-size: 13.9px;
+    line-height: 17px;
+  }
+  .rectangle{
+    height: 60px;
+  }
+  .rectangle1{
+    height: 80%;
+  }
+  .prize{
+    margin-top: -30px;
+  }
+  .card_main {
+    width: 16%;
+  }
+  .pedal2{
+    height: 126.97px;
+  }
+  .pedal1{
+    height: 238.57px;
+  }
+  .front1, .front2, .front3, .front4, .back {
+    border-radius: 7px;
+  }
+  #text1{
+    margin-left: 39.4%;
+  }
+  #yuan{
+    font-size: 18.63px;
+  }
+  #euro{
+    margin-top: 13px;
+    font-size: 18.63px;
+  }
+  #dollar{
+    margin-top: 13px;
+    font-size: 18.63px
+  }
+  #ruble{
+    font-size: 18.63px;
+    margin-bottom: 84px;
+  }
+  #prize{
+    font-size: 31px;
+  }
+  #money{
+    font-size: 30px;
+  }
+  #end{
+    font-size: 24.43px;
+    margin-bottom: 16px;
+  }
+  @keyframes speed {
+    0% {margin-top: -238px}
+    50% {margin-top: 238px}
+    100% {margin-top: -238px}
+  }
+}
