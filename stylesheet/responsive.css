@@ -1,6 +1,6 @@
 @media all and (min-width: 1367px) and (max-width: 1440px) {
   p{
-    font-size: 56.25px;
+    font-size: 50px;
   }
   .numbers {
     margin-left: 10%;
@@ -17,13 +17,14 @@
     height: 2573.44px;
   }
   .coral{
-    height: 335px
+    height: 327.75px
   }
   .first{
     height: 887.69px;
   }
   .buttons{
     height: 215.44px;
+    margin-top: 5%;
   }
   .but_round1{
     border: 9px solid #1D1A1C;
@@ -41,6 +42,7 @@
   .currencies{
     height: 354.87px;
     background-size: 100%;
+    margin-top: 54px;
   }
   .f_money{
     height: .75px;
@@ -71,8 +73,18 @@
   .prize{
     margin-top: -60px;
   }
+  .rectangle{
+    height: 214px;
+    margin-top: -8%;
+  }
+  .fourth1 {
+    height: 382px;
+  }
+  .third {
+    margin-top: 8%;
+  }
   #text1{
-    margin-left: 39.5%;
+    left: 24%;
   }
   #yuan{
     font-size: 32.18px;
@@ -89,7 +101,8 @@
     margin-bottom: 42px;
   }
   #prize{
-    font-size: 53.2px;
+    font-size: 51px;
+    margin-left: 1.8%;
   }
   #money{
     font-size: 70px;
@@ -105,7 +118,7 @@
 }
 @media all and (min-width: 1281px) and (max-device-width: 1366px) {
   p{
-    font-size: 56.25px;
+    font-size: 50px;
   }
   .numbers {
     margin-left: 10%;
@@ -174,13 +187,14 @@
     line-height: 30px;
   }
   .rectangle{
-    height: 118px;
+    height: 178.5px;
+  }
+  .rectangle1{
+    height: 81.56px;
+    margin-top: 16px;
   }
   .prize{
     margin-top: -60px;
-  }
-  #text1{
-    margin-left: 41.7%;
   }
   #yuan{
     font-size: 32.18px;
@@ -197,11 +211,12 @@
     font-size: 32.18px;
     margin-bottom: 57px;
   }
-  #prize{
-    font-size: 50.5px;
+  #prize {
+    font-size: 48px;
+    margin-left: 2.1%;
   }
   #money{
-    font-size: 70px;
+    font-size: 60px;
   }
   #end{
     font-size: 42.19px;
@@ -214,7 +229,7 @@
 }
 @media all and (min-width: 1025px) and (max-device-width: 1280px) {
   p{
-    font-size: 50px;
+    font-size: 44px;
   }
   .cards_panel{
     border-top: 23px solid #1D1A1C;
@@ -231,13 +246,14 @@
     height: 2287.5px;
   }
   .coral{
-    height: 297px;
+    height: 291.33px;
   }
   .first{
     height: 781.59px;
   }
   .buttons{
-    height: 191.5px;
+    margin-top: 4.5%;
+    height: 191.5px
   }
   .but_round1{
     border: 8.67px solid #1D1A1C;
@@ -254,7 +270,7 @@
   }
   .currencies{
     height: 316px;
-    margin-top: 108px;
+    margin-top: 40px;
     background-size: 100%;
   }
   .f_money{
@@ -284,10 +300,11 @@
     line-height: 27px;
   }
   .rectangle{
-    height: 100px;
+    height: 158.67px;
   }
   .rectangle1{
-    height: 80%;
+    margin-top: 14px;
+    height: 72.5px;
   }
   .prize{
     margin-top: -60px;
@@ -296,7 +313,7 @@
     width: 16%;
   }
   #text1{
-    margin-left: 39.4%;
+    left: 26%;
   }
   #yuan{
     font-size: 28.6px;
@@ -313,7 +330,9 @@
     margin-bottom: 52px;
   }
   #prize{
-    font-size: 47.3px;
+    margin-top: 5%;
+    font-size: 45.2px;
+    margin-left: 1.8%;
   }
   #money{
     font-size: 60px;
@@ -330,7 +349,7 @@
 
 @media all and (min-width: 835px) and (max-device-width: 1024px) {
   p{
-    font-size: 40px;
+    font-size: 34px;
   }
   .cards_panel{
     border-top: 19px solid #1D1A1C;
@@ -347,12 +366,14 @@
     height: 1830px;
   }
   .coral{
-    height: 240px;
+    padding: 0 25px;
+    height: 233px;
   }
   .first{
     height: 625.28px;
   }
   .buttons{
+    margin-top: 5%;
     height: 153.2px;
   }
   .but_round1{
@@ -370,7 +391,7 @@
   }
   .currencies{
     height: 252.8px;
-    margin-top: 102px;
+    margin-top: 46px;
     background-size: 100%;
   }
   .f_money{
@@ -400,10 +421,14 @@
     line-height: 21px;
   }
   .rectangle{
-    height: 74px;
+    height: 126.93px;
   }
   .rectangle1{
-    height: 80%;
+    height: 58px;
+    margin-top: 11px;
+  }
+  .back{
+    border-radius: 8px;
   }
   .prize{
     margin-top: -40px;
@@ -418,7 +443,7 @@
     height: 293px;
   }
   #text1{
-    margin-left: 39.4%;
+    left: 25%;
   }
   #yuan{
     font-size: 22.88px;
@@ -436,7 +461,9 @@
     margin-bottom: 72px;
   }
   #prize{
-    font-size: 37.96px;
+    font-size: 36px;
+    margin-left: 2%;
+    margin-top: 5%;
   }
   #money{
     font-size: 40px;
@@ -454,7 +481,7 @@
 
 @media all and (max-device-width: 834px) {
   p{
-    font-size: 32.57px;
+    font-size: 26px;
   }
   .cards_panel{
     border-top: 15px solid #1D1A1C;
@@ -471,13 +498,15 @@
     height: 1490.02px;
   }
   .coral{
-    height: 217px;
+    padding: 0 20px;
+    height: 190px;
   }
   .first{
     height: 509.29px;
   }
   .buttons{
     height: 124.74px;
+    margin-top: 6%;
   }
   .but_round1{
     border: 5.65px solid #1D1A1C;
@@ -494,7 +523,7 @@
   }
   .currencies{
     height: 205.83px;
-    margin-top: 94px;
+    margin-top: 44px;
   }
   .f_money{
     height: .75px;
@@ -523,10 +552,11 @@
     line-height: 17px;
   }
   .rectangle{
-    height: 60px;
+    height: 103.38px;
   }
   .rectangle1{
-    height: 80%;
+    height: 47.24px;
+    margin-top: 7.6px;
   }
   .prize{
     margin-top: -30px;
@@ -544,7 +574,7 @@
     border-radius: 7px;
   }
   #text1{
-    margin-left: 39.4%;
+    top: 5%;
   }
   #yuan{
     font-size: 18.63px;
@@ -562,7 +592,9 @@
     margin-bottom: 84px;
   }
   #prize{
-    font-size: 31px;
+    font-size: 29.2px;
+    margin-top: 5%;
+    margin-left: 2.1%;
   }
   #money{
     font-size: 30px;
