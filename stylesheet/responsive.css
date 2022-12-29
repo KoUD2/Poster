@@ -5,6 +5,10 @@
   .koleso{
     height: 327.75px;
   }
+  .words{
+    top: 397px;
+    left: 0.65vw;
+  }
   .rul{
     top: 98px;
     left: 18.5px;
@@ -158,6 +162,10 @@
     top: 98px;
     left: 18.5px;
   }
+  .words{
+    top: 432px;
+    left: 0.55vw;
+  }
   .main1{
     width: 150px;
     height: 337px;
@@ -308,6 +316,9 @@
   .main1{
     width: 132px;
     height: 300px;
+  }
+  .words{
+    top: 356px;
   }
   .main2{
     margin-left: 4px;
@@ -462,6 +473,9 @@
   .main1{
     width: 106px;
     height: 240px;
+  }
+  .words{
+    top: 286px;
   }
   .main2{
     margin-left: 4px;
@@ -624,6 +638,9 @@
   .rul{
     top: 56.5px;
     left: 10.2px;
+  }
+  .words{
+    top: 236px;
   }
   .main1{
     width: 86px;
@@ -791,6 +808,11 @@
     width: 63.768vw;
     height: 116px;
     overflow: hidden;
+  }
+  .words{
+    top: 286px;
+    left: 9.521vw;
+    width: 84.300vw;
   }
   .main1{
     width: 12.319vw;
@@ -1100,6 +1122,11 @@
     width: 63.768vw;
     height: 89px;
     overflow: hidden;
+  }
+  .words{
+    top: 221px;
+    left: 9.521vw;
+    width: 84.300vw;
   }
   .main1{
     width: 12.5vw;

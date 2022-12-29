@@ -173,6 +173,16 @@ span{
   height: 97.61px;
   background: url(../images/icon4.svg) repeat-x;
 }
+.words{
+  width: 60.269vw;
+  height: 366.48px;
+  position: absolute;
+  top: 534px;
+  left: 0.521vw;
+}
+.words img{
+  width: 100%;
+}
 .rectangle1{
   display: flex;
   align-items: center;
