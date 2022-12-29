@@ -2,6 +2,37 @@
   p{
     font-size: 50px;
   }
+  .koleso{
+    height: 327.75px;
+  }
+  .rul{
+    top: 98px;
+    left: 18.5px;
+  }
+  .main1{
+    width: 148px;
+    height: 337px;
+  }
+  .main2{
+    margin-left: 6px;
+    width: 148px;
+    height: 337px;
+  }
+  .main3{
+    margin-left: 4px;
+    width: 148px;
+    height: 337px;
+  }
+  .main4{
+    margin-left: 10px;
+    width: 148px;
+    height: 337px;
+  }
+  .main5{
+    margin-left: 11px;
+    width: 148px;
+    height: 337px;
+  }
   .numbers {
     margin-left: 10%;
   }
@@ -35,9 +66,6 @@
   }
   .but_rec{
     border-radius: 24px;
-  }
-  .table img{
-    width: 807.85px;
   }
   .currencies{
     height: 354.87px;
@@ -83,6 +111,9 @@
   .third {
     margin-top: 8%;
   }
+  #table{
+    width: 807.85px;
+  }
   #text1{
     left: 24%;
   }
@@ -120,6 +151,39 @@
   p{
     font-size: 50px;
   }
+  .table{
+    width: 96%;
+  }
+  .rul{
+    top: 98px;
+    left: 18.5px;
+  }
+  .main1{
+    width: 150px;
+    height: 337px;
+  }
+  .koleso{
+    height: 335px;
+  }
+  .main2{
+    margin-left: 4px;
+    width: 150px;
+    height: 337px;
+  }
+  .main3{
+    width: 150px;
+    height: 337px;
+  }
+  .main4{
+    margin-left: 7px;
+    width: 150px;
+    height: 337px;
+  }
+  .main5{
+    margin-left: 12px;
+    width: 150px;
+    height: 337px;
+  }
   .numbers {
     margin-left: 10%;
   }
@@ -152,9 +216,6 @@
   }
   .but_rec{
     border-radius: 24px;
-  }
-  .table img{
-    width: 807.85px;
   }
   .currencies{
     height: 354.87px;
@@ -196,6 +257,9 @@
   .prize{
     margin-top: -60px;
   }
+  #table{
+    width: 807.85px;
+  }
   #yuan{
     font-size: 32.18px;
   }
@@ -231,6 +295,40 @@
   p{
     font-size: 44px;
   }
+  .table{
+    width: 96%;
+  }
+  .koleso{
+    height: 291.33px;
+  }
+  .rul{
+    top: 86px;
+    left: 16.1px;
+  }
+  .main1{
+    width: 132px;
+    height: 300px;
+  }
+  .main2{
+    margin-left: 4px;
+    width: 132px;
+    height: 300px;
+  }
+  .main3{
+    margin-left: 5px;
+    width: 132px;
+    height: 300px;
+  }
+  .main4{
+    margin-left: 8px;
+    width: 132px;
+    height: 300px;
+  }
+  .main5{
+    margin-left: 8px;
+    width: 132px;
+    height: 300px;
+  }
   .cards_panel{
     border-top: 23px solid #1D1A1C;
     border-left: 23px solid #1D1A1C;
@@ -264,9 +362,6 @@
   }
   .but_rec{
     border-radius: 22px;
-  }
-  .table img{
-    width: 718.09px;
   }
   .currencies{
     height: 316px;
@@ -312,6 +407,9 @@
   .card_main {
     width: 16%;
   }
+  #table{
+    width: 718.09px;
+  }
   #text1{
     left: 26%;
   }
@@ -351,6 +449,40 @@
   p{
     font-size: 34px;
   }
+  .koleso{
+    height: 233px;
+  }
+  .table{
+    width: 96%;
+  }
+  .rul{
+    top: 68.5px;
+    left: 12.5px;
+  }
+  .main1{
+    width: 106px;
+    height: 240px;
+  }
+  .main2{
+    margin-left: 4px;
+    width: 106px;
+    height: 240px;
+  }
+  .main3{
+    margin-left: 2px;
+    width: 106px;
+    height: 240px;
+  }
+  .main4{
+    margin-left: 6px;
+    width: 106px;
+    height: 240px;
+  }
+  .main5{
+    margin-left: 7px;
+    width: 106px;
+    height: 240px;
+  }
   .cards_panel{
     border-top: 19px solid #1D1A1C;
     border-left: 19px solid #1D1A1C;
@@ -385,9 +517,6 @@
   }
   .but_rec{
     border-radius: 16px;
-  }
-  .table img{
-    width: 574.47px;
   }
   .currencies{
     height: 252.8px;
@@ -442,6 +571,9 @@
   .pedal1{
     height: 293px;
   }
+  #table{
+    width: 574.47px;
+  }
   #text1{
     left: 25%;
   }
@@ -479,9 +611,43 @@
   }
 }
 
-@media all and (max-device-width: 834px) {
+@media all and (min-width: 415px) and (max-device-width: 834px) {
   p{
     font-size: 26px;
+  }
+  .table{
+    width: 96%;
+  }
+  .koleso{
+    height: 190px;
+  }
+  .rul{
+    top: 56.5px;
+    left: 10.2px;
+  }
+  .main1{
+    width: 86px;
+    height: 196px;
+  }
+  .main2{
+    margin-left: 4px;
+    width: 86px;
+    height: 196px;
+  }
+  .main3{
+    margin-left: 2px;
+    width: 86px;
+    height: 196px;
+  }
+  .main4{
+    margin-left: 5px;
+    width: 86px;
+    height: 196px;
+  }
+  .main5{
+    margin-left: 6px;
+    width: 86px;
+    height: 196px;
   }
   .cards_panel{
     border-top: 15px solid #1D1A1C;
@@ -518,9 +684,6 @@
   .but_rec{
     border-radius: 14px;
   }
-  .table img{
-    width: 467.75px;
-  }
   .currencies{
     height: 205.83px;
     margin-top: 44px;
@@ -556,7 +719,7 @@
   }
   .rectangle1{
     height: 47.24px;
-    margin-top: 7.6px;
+    margin-top: 8.6px;
   }
   .prize{
     margin-top: -30px;
@@ -572,6 +735,9 @@
   }
   .front1, .front2, .front3, .front4, .back {
     border-radius: 7px;
+  }
+  #table{
+    width: 467.75px;
   }
   #text1{
     top: 5%;
@@ -608,4 +774,626 @@
     50% {margin-top: 238px}
     100% {margin-top: -238px}
   }
+}
+@media all and (min-width: 321px) and (max-device-width: 414px) {
+  p{
+    font-size: 16px;
+  }
+  .table{
+    margin-top: 0;
+    margin-right: 0;
+    width: 66.290vw;
+  }
+  .rul{
+    display: flex;
+    top: 32.5px;
+    left: 4.5px;
+    width: 63.768vw;
+    height: 116px;
+    overflow: hidden;
+  }
+  .main1{
+    width: 12.319vw;
+    height: 116px;
+    margin-left: 2px;
+  }
+  .cur_but{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 205.89px;
+    width: 24.053vw;
+  }
+  .block_speed{
+    display: flex;
+    height: 218px;
+    width: 24.155vw;
+  }
+  .second{
+    display: none;
+  }
+  .currencies1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 7.870vw;
+    height: 205.89px;
+  }
+  .currencies1 img{
+    width: 100%;
+  }
+  .buttons1{
+    width: 9.232vw;
+    height: 126.4px;
+  }
+  .speed{
+    margin-left: 0;
+    width: 16.483vw;
+  }
+  .wh1{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    max-width: 414px;
+    height: 308.54px;
+  }
+  .coaster{
+    width: 40vw;
+  }
+  .main2{
+    margin-left: 1.5px;
+    width: 12.319vw;
+    height: 116px;
+  }
+  .main3{
+    margin-left: 0px;
+    width: 12.319vw;
+    height: 116px;
+  }
+  .main4{
+    margin-left: 2px;
+    width: 12.319vw;
+    height: 116px;
+  }
+  .main5{
+    margin-left: 4px;
+    width: 12.319vw;
+    height: 116px;
+  }
+  .cards_panel{
+    display: none;
+  }
+  .round_max{
+    width: 29.659vw;
+  }
+  .round_min1{
+    width: 21.703vw;
+  }
+  .round_min2{
+    width: 21.703vw;
+  }
+  .numbers {
+    margin-left: 0;
+    width: 62.213vw;
+    height: 122.79px;
+  }
+  .panel{
+    height: 154px;
+    justify-content: center;
+  }
+  .main{
+    height: 1550px;
+  }
+  .coral{
+    padding: 0 20px;
+    height: 99px;
+  }
+  .koleso{
+    display: flex;
+    align-items: center;
+    height: 99px;
+  }
+  .first{
+    height: 625.28px;
+  }
+  .but_round1{
+    border: 6.93px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 5.87px solid #1D1A1C;
+    border-radius: 12px;
+  }
+  .but_rec{
+    border-radius: 14px;
+  }
+  .currencies{
+    height: 252.8px;
+    margin-top: 46px;
+    background-size: 100%;
+  }
+  .cards2_0{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 136px;
+    width: 100vw;
+  }
+  .cards_panel1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(105,35,13);
+    background: linear-gradient(135deg, rgba(105,35,13,1) 0%, rgba(189,152,125,1) 50%, rgba(105,35,13,1) 100%);
+    height: 98px;
+    width: 59.179vw;
+    border: 11px solid #C54C06;
+  }
+  .first{
+    display: none;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round_big{
+    margin-left: 4.348vw;
+    margin-right: 4.348vw;
+    height: 58.93px;
+    width: 14.234vw;
+  }
+  .third{
+    margin-top: 3%;
+  }
+  .but_round1_big{
+    border: 8.62px solid #1D1A1C;
+  }
+  .arrow1{
+    top: 29.2%;
+    left: 46.87%;
+  }
+  .arrow3{
+    top: 29.2%;
+    left: 46.87%;
+  }
+  .fourth{
+    margin-top: 6%;
+  }
+  .fourth1{
+    width: 66.597vw;
+    height: 124px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 32px;
+  }
+  .fifth1 {
+    height: 32px;
+    width: 66.775vw;
+  }
+  .fifth p {
+    font-size: 6.9px;
+    line-height: 9px;
+  }
+  .rectangle{
+    margin-top: 10%;
+    height: 61.04px;
+  }
+  .wheel{
+    width: 74.524vw;
+  }
+  .rectangle1{
+    height: 27.89px;
+    margin-top: 8px;
+  }
+  .back{
+    border-radius: 5px;
+  }
+  .prize{
+    margin-top: -40px;
+  }
+  .card_main {
+    width: 14.6%;
+  }
+  .pedal2{
+    height: 155.95px;
+  }
+  .pedal1{
+    height: 140.37px;
+  }
+  .pedal{
+    height: 110.16px;
+  }
+  .max_div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 72.007vw;
+  }
+  .big{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 444px;
+    width: 24.155vw;
+  }
+  .large{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    max-width: 414px;
+  }
+  .sec2{
+    margin-top: 7%;
+    height: 154.02px;
+    max-width: 414px;
+    display: flex;
+    justify-content: center;
+  }
+  .sec2:hover ~ .third #money {
+    transition: all .3s;
+    color: #DB6408;
+  }
+  .chip1{
+    left: 6.2%;
+  }
+  .chip2{
+    top: 59%;
+    left: 6.2%;
+  }
+  #table{
+    width: 66.290vw;
+  }
+  #text1{
+    left: 27%;
+  }
+  #yuan{
+    margin-top: 42%;
+    font-size: 18.64px
+  }
+  #euro{
+    margin-top: 12px;
+    font-size: 18.64px;
+  }
+  #dollar{
+    margin-top: 12px;
+    font-size: 18.64px
+  }
+  #ruble{
+    font-size: 18.64px;
+    margin-bottom: 85px;
+  }
+  #prize{
+    font-size: 14px;
+    margin-left: 3.5%;
+    margin-top: 7%;
+  }
+  #money{
+    font-size: 20px;
+  }
+  #end{
+    font-size: 14.37px;
+    margin-bottom: 10px;
+  }
+  @keyframes speed {
+    0% {margin-top: 0px}
+    50% {margin-top: 82px}
+    100% {margin-top: 0px}
+  }
+}
+@media all and (max-device-width: 320px) {
+  p{
+    font-size: 12px;
+  }
+  .table{
+    margin-top: 0;
+    margin-right: 0;
+    width: 66.290vw;
+  }
+  .rul{
+    display: flex;
+    top: 25.5px;
+    left: 4.5px;
+    width: 63.768vw;
+    height: 89px;
+    overflow: hidden;
+  }
+  .main1{
+    width: 12.5vw;
+    height: 90px;
+    margin-left: 1px;
+  }
+  .cur_but{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 159.14px;
+    width: 24.053vw;
+  }
+  .block_speed{
+    display: flex;
+    height: 179px;
+    width: 24.155vw;
+  }
+  .second{
+    display: none;
+  }
+  .currencies1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 7.870vw;
+    height: 159.14px;
+  }
+  .currencies1 img{
+    width: 100%;
+  }
+  .buttons1{
+    width: 9.232vw;
+    height: 97.7px;
+  }
+  .speed{
+    margin-left: 0;
+    width: 16.483vw;
+  }
+  .wh1{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    max-width: 414px;
+    height: 238.48px;
+  }
+  .coaster{
+    width: 40vw;
+  }
+  .main2{
+    margin-left: 1px;
+    width: 12.5vw;
+    height: 90px;
+  }
+  .main3{
+    margin-left: 0px;
+    width: 12.5vw;
+    height: 90px;
+  }
+  .main4{
+    margin-left: 2px;
+    width: 12.5vw;
+    height: 90px;
+  }
+  .main5{
+    margin-left: 3px;
+    width: 12.5vw;
+    height: 90px;
+  }
+  .cards_panel{
+    display: none;
+  }
+  .round_max{
+    width: 29.659vw;
+  }
+  .round_min1{
+    width: 21.703vw;
+  }
+  .round_min2{
+    width: 21.703vw;
+  }
+  .numbers {
+    margin-left: 0;
+    width: 62.213vw;
+    height: 122.79px;
+  }
+  .panel{
+    height: 119.03px;
+    justify-content: center;
+  }
+  .main{
+    height: 1210px;
+  }
+  .coral{
+    padding: 0 20px;
+    height: 77px;
+  }
+  .koleso{
+    display: flex;
+    align-items: center;
+    height: 77px;
+  }
+  .first{
+    height: 625.28px;
+  }
+  .but_round1{
+    border: 4.36px solid #1D1A1C;
+  }
+  .but_rec1{
+    border: 3.69px solid #1D1A1C;
+    border-radius: 8px;
+  }
+  .but_rec{
+    border-radius: 9px;
+  }
+  .currencies{
+    height: 252.8px;
+    margin-top: 46px;
+    background-size: 100%;
+  }
+  .cards2_0{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 105px;
+    width: 100vw;
+  }
+  .cards_panel1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(105,35,13);
+    background: linear-gradient(135deg, rgba(105,35,13,1) 0%, rgba(189,152,125,1) 50%, rgba(105,35,13,1) 100%);
+    height: 77px;
+    width: 59.179vw;
+    border: 8px solid #C54C06;
+  }
+  .first{
+    display: none;
+  }
+  .f_money{
+    height: .75px;
+  }
+  .but_round_big{
+    margin-left: 4.348vw;
+    margin-right: 4.348vw;
+    height: 45.55px;
+    width: 14.234vw;
+  }
+  .third{
+    margin-top: 3%;
+  }
+  .but_round1_big{
+    border: 6.6px solid #1D1A1C;
+  }
+  .arrow1{
+    top: 29.2%;
+    left: 46.87%;
+  }
+  .arrow3{
+    top: 29.2%;
+    left: 46.87%;
+  }
+  .fourth{
+    margin-top: 1%;
+  }
+  .fourth1{
+    width: 66.597vw;
+    height: 124px
+  }
+  .pedal1 {
+    display: flex;
+    align-items: stretch;
+  }
+  .fifth {
+    height: 24.73px;
+  }
+  .fifth1 {
+    height: 24.73px;
+    width: 66.616vw;
+  }
+  .fifth p {
+    font-size: 5.33px;
+    line-height: 7px;
+  }
+  .rectangle{
+    margin-top: 20%;
+    height: 47.18px;
+  }
+  .wheel{
+    width: 74.524vw;
+  }
+  .rectangle1{
+    height: 21.56px;
+    margin-top: 6px;
+  }
+  .back{
+    border-radius: 5px;
+  }
+  .prize{
+    margin-top: -40px;
+  }
+  .card_main {
+    width: 15.3%;
+  }
+  .pedal2{
+    height: 155.95px;
+  }
+  .pedal1{
+    height: 140.37px;
+  }
+  .pedal{
+    height: 110.16px;
+  }
+  .max_div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 72.007vw;
+  }
+  .big{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 350px;
+    width: 24.155vw;
+  }
+  .large{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    max-width: 350px;
+  }
+  .sec2{
+    margin-top: 7%;
+    height: 119.05px;
+    max-width: 414px;
+    display: flex;
+    justify-content: center;
+  }
+  .sec2:hover ~ .third #money {
+    transition: all .3s;
+    color: #DB6408;
+  }
+  .chip1{
+    left: 6.55%;
+  }
+  .chip2{
+    top: 58.8%;
+    left: 6.55%;
+  }
+  #table{
+    width: 66.290vw;
+  }
+  #text1{
+    top: 3.5%;
+    left: 27%
+  }
+  #yuan{
+    margin-top: 42%;
+    font-size: 14.41px
+  }
+  #euro{
+    margin-top: 9px;
+    font-size: 14.41px;
+  }
+  #dollar{
+    margin-top: 9px;
+    font-size: 14.41px
+  }
+  #ruble{
+    font-size: 14.41px;
+    margin-bottom: 99px;
+  }
+  #prize{
+    font-size: 10.8px;
+    margin-left: 3.5%;
+    margin-top: 7%;
+  }
+  #money{
+    font-size: 13px;
+  }
+  #end{
+    font-size: 14.37px;
+    margin-bottom: 10px;
+  }
+  @keyframes speed {
+    0% {margin-top: 0px}
+    50% {margin-top: 74px}
+    100% {margin-top: 0px}
+  }
+}
+}
+}
 }

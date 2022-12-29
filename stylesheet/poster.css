@@ -4,11 +4,33 @@ p{
   font-size: 65px;
   color: #CC5407
 }
+span img{
+  width: 60%;
+}
+span{
+  width: 100%;
+  height: 140%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.cards2_0{
+  display: none;
+}
 .coral{
   padding: 0 40px;
   background: #1D1A1C;
   max-width: 1920px;
   height: 436px;
+}
+.cur_but{
+  display: none;
+}
+.koleso{
+  height: 437px;
+  display: flex;
+  align-items: center;
 }
 .koleso img{
   width: 100%;
@@ -106,6 +128,9 @@ p{
   justify-content: center;
   height: 6.7%;
   margin-top: 6%;
+}
+.sec2{
+  display: none;
 }
 .fourth1{
   width: 56.74%;
@@ -222,13 +247,33 @@ p{
   width: 198px;
   height: 450px;
 }
+.main2{
+  margin-left: 10px;
+  width: 198px;
+  height: 450px;
+}
+.main3{
+  width: 198px;
+  height: 450px;
+}
+.main4{
+  margin-left: 10px;
+  width: 198px;
+  height: 450px;
+}
+.main5{
+  margin-left: 18px;
+  width: 198px;
+  height: 450px;
+}
 .rul{
   position: absolute;
   top: 130px;
   left: 25px;
   display: flex;
-  width: 87.63%;
+  width: 97%;
 }
+
 .line_main1 div{
   height: 200%;
   animation: icon .2s linear infinite;
@@ -285,10 +330,6 @@ p{
   flex-direction: column;
   animation: line 3s linear infinite;
 }
-.but_round1_big:hover ~ #money{
-  transition: all .5s;
-  color: #DB6508
-}
 .arrow1{
   position: absolute;
   top: 29.57%;
@@ -312,6 +353,9 @@ p{
 }
 .arrow2 img{
   width: 100%;
+}
+.wh1{
+  display: none;
 }
 .arrow3{
   position: absolute;
@@ -365,6 +409,9 @@ p{
 .currencies img{
   width: 100%;
 }
+.large{
+  display: none;
+}
 .f_money{
   position: absolute;
   top: .5%;
@@ -404,6 +451,30 @@ p{
   animation: speed 3s cubic-bezier(0.71, 0.11, 0.13, 0.9) infinite;
 }
 .speed img{
+  width: 100%;
+}
+.round_min1{
+  position: relative;
+  width: 34.88%;
+}
+.round_min1 img{
+  width: 100%;
+}
+.round_max{
+  position: relative;
+  margin-left: -15%;
+  width: 47.67%;
+  z-index: 10;
+}
+.round_max img{
+  width: 100%;
+}
+.round_min2{
+  position: relative;
+  margin-left: -14%;
+  width: 34.88%;
+}
+.round_min2 img{
   width: 100%;
 }
 .chip1{
@@ -451,6 +522,10 @@ p{
   height: 150px;
   background-image: linear-gradient(to bottom, #DB6507, #A62804);
 }
+.rul:hover .line_main1 div {
+  animation-play-state: paused;
+}
+
 .fifth p{
   font-size: 32px;
   line-height: 40px;
@@ -482,16 +557,13 @@ p{
   width: 100%;
   height: 100%;
 }
-span img{
-  width: 60%;
+.pedal2:hover ~ #end {
+  transition: all .5s;
+  color: #DB6508
 }
-span{
-  width: 100%;
-  height: 140%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
+.second:hover ~ .third #money {
+  transition: all .3s;
+  color: #DB6408;
 }
 #card1:hover .back {transform: rotateY(180deg);}
 #card1:hover .front1 {transform: rotateY(360deg);}
@@ -504,9 +576,7 @@ span{
 
 #card4:hover .back {transform: rotateY(180deg);}
 #card4:hover .front4 {transform: rotateY(360deg);}
-.rul:hover .line_main1 div {
-  animation-play-state: paused;
-}
+
 #text1{
   color: #1D1A1C;
   position: absolute;
@@ -606,11 +676,6 @@ span{
   margin-top: 5%;
 }
 
-.pedal2:hover ~ #end {
-  transition: all .5s;
-  color: #DB6508
-}
-
 #yuan{
   font-size: 44px;
   margin-top: 40%;
@@ -645,7 +710,7 @@ span{
   animation: text1 1s linear infinite;
 }
 #money{
-  color: #fff;
+  color: rgba(0, 0, 0, 0);
   font-size: 80px;
 }
 #end{
@@ -704,10 +769,6 @@ span{
   50% {margin-top: 442px}
   100% {margin-top: -436px}
 }
-
-.main .rul:hover ~ #money {
-  color: red;
-}
 @keyframes arrow2 {
   0% {transform: rotate(30deg);}
   20% {transform: rotate(80deg);}
@@ -743,30 +804,6 @@ span{
   50% {color: #1D1A1C;}
   51% {color: #F2DAC9;}
   100% {color: #F2DAC9;}
-}
-.round_min1{
-  position: relative;
-  width: 34.88%;
-}
-.round_min1 img{
-  width: 100%;
-}
-.round_max{
-  position: relative;
-  margin-left: -15%;
-  width: 47.67%;
-  z-index: 10;
-}
-.round_max img{
-  width: 100%;
-}
-.round_min2{
-  position: relative;
-  margin-left: -14%;
-  width: 34.88%;
-}
-.round_min2 img{
-  width: 100%;
 }
 @keyframes icon {
   0% { transform: translateY(0%);}
